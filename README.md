@@ -1,16 +1,20 @@
 ## Hi there 👋
+I'm Prapti Risal!
+- 🎓 BSc (Hons) Computing @ The British College
+- - 📫 How to reach me: prapti.risal12@gmail.com
 
 <!--
-**prapti-r/prapti-r** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ⚡ Fun fact: ...-->
+
+### 🚀 Skills & Tools
+
+- **Languages**: PHP, Python, JavaScript, SQL
+- **Frameworks**: Laravel, Django, Bulma CSS
+- **Databases**: Oracle, SQLite
+- **Other Tools**: Git, GitHub, PayPal Sandbox, VS Code, Postman
