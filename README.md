@@ -1,7 +1,7 @@
 ## Hi there 👋
 I'm Prapti Risal!
-- 🎓 BSc (Hons) Computing @ The British College
-- - 📫 How to reach me: prapti.risal12@gmail.com
+- 🎓  I'm currently studying **BSc (Hons) Computing** at **The British College**
+- 📫 How to reach me: prapti.risal12@gmail.com
 
 <!--
 - 🔭 I’m currently working on ...
@@ -14,7 +14,8 @@ I'm Prapti Risal!
 
 ### 🚀 Skills & Tools
 
-- **Languages**: PHP, Python, JavaScript, SQL
-- **Frameworks**: Laravel, Django, Bulma CSS
-- **Databases**: Oracle, SQLite
-- **Other Tools**: Git, GitHub, PayPal Sandbox, VS Code, Postman
+- **Programming Languages**: Python, Java, PHP, JavaScript
+- **Web Development**: HTML5, CSS3, JavaScript, Bulma
+- **Frameworks**: Laravel, Django
+- **Databases**: Oracle, SQLite, MySQL
+- **Developer Tools**: Git, GitHub, VS Code, PyCharm, Postman
