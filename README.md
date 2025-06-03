@@ -1,5 +1,4 @@
-## Hi there 👋
-I'm Prapti Risal!
+## Hi there 👋 I'm Prapti Risal!
 - 🎓  I'm currently studying **BSc (Hons) Computing** at **The British College**
 - 📫 How to reach me: prapti.risal12@gmail.com
 
